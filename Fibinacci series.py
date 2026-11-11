@@ -1,4 +1,5 @@
-n = int(input("Enter the number of term:")
+n = int(input("Enter the number of 
+term:"))
 a = 0
 b = 1
 for i in range(n):
